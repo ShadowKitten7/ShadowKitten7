@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm a 16 year old hobby programmer
-
-- 🔭 I’m currently working on making a graphics programming language, and a Java IDE
-- 🌱 I’m currently learning C++ and Qt
-- 😄 Pronouns: he/him
+Currently stressing
+How to reach me: you don't, as of now
+What I'm thinking on working on: A graphics programming language
+What I'm working on: a 2 player chess game
+Abandoned 'Resting' projects: Java IDE
